@@ -1,0 +1,1 @@
+Masquerade: Hide the existence of vampires.

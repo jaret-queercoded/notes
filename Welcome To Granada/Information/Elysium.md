@@ -1,0 +1,1 @@
+**Elysium**: _A place for vampires to meet together without fear of harm; Usually cultural locations, such as opera houses, theaters or museums._

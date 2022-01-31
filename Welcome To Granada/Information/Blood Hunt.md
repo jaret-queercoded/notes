@@ -1,0 +1,1 @@
+A [[Blood Hunt]] is an order given by a [[Camarilla]] official, calling for the destruction of another vampire. When such order is given by a Sabbat official, the procedure is called a "Wild Hunt" instead.

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c7ceab737757b0d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "050835468f4d1e36",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3198d61aa267905",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff8531e02bdfc35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec875dfdedc32be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b376f9c2a94761c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "masqu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 530
+  },
+  "right": {
+    "id": "ccbf10379727dc9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e02db52be74f66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456a2af5b4d78382",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "050835468f4d1e36",
+  "lastOpenFiles": [
+    "Resources/SDL2.md",
+    "Welcome To Granada/Sessions/Session 03 - 2022-01-30.md",
+    "Welcome To Granada/Locations/Catedral de Garnada.md",
+    "Welcome To Granada/Sessions/Session 02 - 2022-01-23.md",
+    "Welcome To Granada/People/Anya.md",
+    "Welcome To Granada/People/Maram al-Rashid.md",
+    "Welcome To Granada/Locations/Sacromonte.md",
+    "Welcome To Granada/Locations/Hugo Torres Apartment.md",
+    "Welcome To Granada/Materials/Torn Piece of Jeans.md",
+    "Welcome To Granada/Locations/Seminario Diocesano de Granada.md"
+  ]
+}

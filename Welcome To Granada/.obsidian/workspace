@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "877bf17227fb4704",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be854d71d162e1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/Session 01 - 2022-01-09.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a4246178040a062",
+    "type": "split",
+    "children": [
+      {
+        "id": "5290f0b318397761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0daec48d259840",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8d2e118ae627571",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c14ca470a741f82b",
+    "type": "split",
+    "children": [
+      {
+        "id": "644b3bae53061ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc572aeb6b62bf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Session 01 - 2022-01-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1be854d71d162e1d",
+  "lastOpenFiles": [
+    "Sessions/Session 01 - 2022-01-09.md",
+    "People/Ada.md",
+    "Materials/Letter From Armando.md",
+    "Groups/Catholic Camarilla.md",
+    "Templates/Location.md",
+    "Templates/Person.md",
+    "People/Curro.md",
+    "People/Cecil Hallward.md",
+    "People/Giacomo Fiori.md",
+    "People/Maram al-Rashid.md"
+  ]
+}

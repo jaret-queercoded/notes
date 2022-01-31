@@ -1,0 +1,6 @@
+- Masquerade: Hide the existence of vampires.
+- Domain: A kindred's hunting ground is his own territory, and he rules it absolutely.
+- Progeny: Sire only with permission of one's elders.
+- Accounting: Until childer are released, their actions are the responsibility of their sire.
+- Hospitality: Honor the domains of others, and present oneself to the ruler of any domain you visit.
+- Destruction: The right to kill Kindred is reserved for the Elder of a community. Only an elder may call a [[Blood Hunt]].

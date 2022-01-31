@@ -1,0 +1,1 @@
+[[Caliphate]], the political-religious state comprising the Muslim community and the lands and peoples under its dominion in the centuries following the death (632 ce) of the Prophet Muhammad.

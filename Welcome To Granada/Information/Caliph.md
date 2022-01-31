@@ -1,0 +1,1 @@
+[[caliph]], Arabic khalīfah (“successor”), in Islamic history the ruler of the Muslim community.
