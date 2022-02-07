@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "050835468f4d1e36",
+        "id": "a3b799b82b834979",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Welcome To Granada/Sessions/Session 04 - 2022-02-06.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome To Granada/Sessions/Session 04 - 2022-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "050835468f4d1e36",
+  "active": "a3b799b82b834979",
   "lastOpenFiles": [
-    "Resources/SDL2.md",
+    "Welcome To Granada/Sessions/Session 04 - 2022-02-06.md",
     "Welcome To Granada/Sessions/Session 03 - 2022-01-30.md",
+    "Welcome To Granada/People/Luca.md",
+    "Welcome To Granada/Clans/Gangrel.md",
+    "Welcome To Granada/People/Anitta Growler.md",
+    "Welcome To Granada/People/Giacomo Fiori.md",
+    "Resources/SDL2.md",
     "Welcome To Granada/Locations/Catedral de Garnada.md",
     "Welcome To Granada/Sessions/Session 02 - 2022-01-23.md",
-    "Welcome To Granada/People/Anya.md",
-    "Welcome To Granada/People/Maram al-Rashid.md",
-    "Welcome To Granada/Locations/Sacromonte.md",
-    "Welcome To Granada/Locations/Hugo Torres Apartment.md",
-    "Welcome To Granada/Materials/Torn Piece of Jeans.md",
-    "Welcome To Granada/Locations/Seminario Diocesano de Granada.md"
+    "Welcome To Granada/People/Anya.md"
   ]
 }
