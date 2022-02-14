@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welcome To Granada/Sessions/Session 04 - 2022-02-06.md",
+            "file": "Welcome To Granada/Sessions/Session 05 - 2022-02-13.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome To Granada/Sessions/Session 04 - 2022-02-06.md",
+                "file": "Welcome To Granada/Sessions/Session 05 - 2022-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a3b799b82b834979",
   "lastOpenFiles": [
+    "Welcome To Granada/Sessions/Session 05 - 2022-02-13.md",
     "Welcome To Granada/Sessions/Session 04 - 2022-02-06.md",
     "Welcome To Granada/Sessions/Session 03 - 2022-01-30.md",
     "Welcome To Granada/People/Luca.md",
@@ -97,7 +98,6 @@
     "Welcome To Granada/People/Giacomo Fiori.md",
     "Resources/SDL2.md",
     "Welcome To Granada/Locations/Catedral de Garnada.md",
-    "Welcome To Granada/Sessions/Session 02 - 2022-01-23.md",
-    "Welcome To Granada/People/Anya.md"
+    "Welcome To Granada/Sessions/Session 02 - 2022-01-23.md"
   ]
 }
